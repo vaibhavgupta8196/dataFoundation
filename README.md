@@ -1,1 +1,1 @@
-# dataFoundation
+Initialized by Azure Data Factory
